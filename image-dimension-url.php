@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP Image Dimensions URL
+ * Plugin Name: Image Dimensions URL
  * Description: Plugin para obtener las dimensiones de las imágenes dentro de una página de WordPress.
  * Version: 1.4
  * Author: javierenweb.com
