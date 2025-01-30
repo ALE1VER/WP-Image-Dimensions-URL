@@ -40,6 +40,5 @@ We welcome contributions! To contribute:
 - It does not store any user data.
 - Uses `sanitize_text_field()` to prevent malicious input.
 
-## License
-
-This plugin is released under the [GPL-2.0+ License](https://www.gnu.org/licenses/gpl-2.0.html).
+== License ==
+This plugin is released under the GPL-2.0+ License. See the full license at https://www.gnu.org/licenses/gpl-2.0.html.
