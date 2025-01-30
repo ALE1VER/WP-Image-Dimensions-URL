@@ -4,6 +4,8 @@
  * Description: Plugin para obtener las dimensiones de las imágenes dentro de una página de WordPress.
  * Version: 1.4
  * Author: javierenweb.com
+ * License: GPL-2.0+
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 // Agregar una página en el menú de administración de WordPress
