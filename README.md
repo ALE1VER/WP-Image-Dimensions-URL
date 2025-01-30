@@ -1,9 +1,9 @@
-# WP Image Dimensions URL
+# Image Dimensions URL
 Easily check the dimensions of images on your website by simply entering its URL. This plugin quickly retrieves image sizes and helps you ensure your images are optimized for your website.
 
 ![Banner](http://javierenweb.com/wp-content/uploads/2025/01/image-1.jpg)  
 
-**Image Dimensions Checker for URL** is a WordPress plugin that allows you to quickly check the dimensions of all images on a given webpage by simply entering its URL. This helps you ensure that your images are properly sized and optimized for performance.
+**Image Dimensions URL** is a WordPress plugin that allows you to quickly check the dimensions of all images on a given webpage by simply entering its URL. This helps you ensure that your images are properly sized and optimized for performance.
 
 ## Features
 
